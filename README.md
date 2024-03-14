@@ -1,3 +1,57 @@
+This is code for the following tutorial:
+
+![ChatGPT Clone](https://i.ytimg.com/vi/_Aeu7BcMoeY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBENGf8oDCq4nwdPXo0AFVaAy1DMQ)
+
+[VIDEO TUTORIAL](https://youtu.be/_Aeu7BcMoeY?si=f4c4QoosSys86sOV)
+
+
+If you want to run this I recommend following the tutorial. You can also try the following:
+
+## Required:
+Node version 14.x
+
+## Clone this repo
+```bash
+git clone https://github.com/vukrosic/setup-nextjs-convex-clerk-typescript-stripe-shadcn-tailwindcss-react
+```
+
+## Install packages
+```bash
+cd nextjs14-chatgpt & npm install
+```
+
+## Run Convex
+```bash
+npx convex dev
+```
+
+You will need to setup Clerk, Convex and other things. Don't forget to add your variables to convex website as well. Here is example .env.local file:
+
+```env
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+
+NEXT_PUBLIC_HOSTING_URL=http://localhost:3000
+
+NEXT_STRIPE_PUBLISHABLE_KEY=
+NEXT_STRIPE_SECRET_KEY=
+STRIPE_ONE_TIME_PRICE_ID=
+STRIPE_WEBHOOK_SECRET=
+```
+
+## Run the app
+```bash
+npm run dev
+```
+
+At this point, you application should work, but it probably doesn't. You may check timesteps in the video description or try to read and solve errors by yourself. You can also ask in comments.
+
+
+
+
+
+# Next JS documentation below
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
