@@ -1,8 +1,8 @@
 This is code for the following tutorial:
 
-![ChatGPT Clone](https://i.ytimg.com/vi/_Aeu7BcMoeY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBENGf8oDCq4nwdPXo0AFVaAy1DMQ)
+![ChatGPT Clone](https://github.com/vukrosic/setup-nextjs-convex-clerk-typescript-stripe-shadcn-tailwindcss-react/blob/main/public/thumbnail.png?raw=true)
 
-[VIDEO TUTORIAL](https://youtu.be/_Aeu7BcMoeY?si=f4c4QoosSys86sOV)
+[VIDEO TUTORIAL](https://youtu.be/bTY0fa8p8D0?si=hPgOec1M7xjJ4rvB)
 
 
 If you want to run this I recommend following the tutorial. You can also try the following:
